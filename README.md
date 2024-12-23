@@ -12,7 +12,7 @@ All credits go to boring notch. This is just a modified version to make it invis
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/TheBoredTeam/boring.notch.git
+   git clone https://github.com/nlx-404/invisible.boring.notch.git
    cd boring.notch
    ```
 
