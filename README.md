@@ -12,8 +12,8 @@ All credits go to boring notch. This is just a modified version to make it invis
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/nlx-404/invisible.boring.notch/tree/main.git
-   cd boring.notch
+   git clone https://github.com/nlx-404/invisible.boring.git
+   cd invisible.boring.notch
    ```
 
 2. **Open the Project in Xcode**:
