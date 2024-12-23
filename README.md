@@ -1,5 +1,7 @@
 # Invisible Boring Notch
 All credits go to boring notch. This is just a modified version to make it invisible/less visible
+![Demo of invisible boring notch](invisible-boring-notch.gif)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
